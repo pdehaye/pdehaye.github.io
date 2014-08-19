@@ -96,7 +96,8 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
-	("http://www.twitter.com/podehaye","Twitter")
+	("http://www.twitter.com/podehaye","Twitter"),
+	("/stories/about.html", "About")
     ),
 }
 
@@ -284,8 +285,8 @@ REDIRECTIONS = []
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-# GITHUB_SOURCE_BRANCH = 'master'
-# GITHUB_DEPLOY_BRANCH = 'gh-pages'
+GITHUB_SOURCE_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'master'
 
 # The name of the remote where you wish to push to, using github_deploy.
 # GITHUB_REMOTE_NAME = 'origin'
@@ -682,8 +683,9 @@ COMMENT_SYSTEM_ID = "pdehaye-blog"
 UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
-# ADDITIONAL_METADATA = {}
-
+ADDITIONAL_METADATA = {
+    'author': 'Paul-Olivier Dehaye'
+}
 # Nikola supports Open Graph Protocol data for enhancing link sharing and
 # discoverability of your site on Facebook, Google+, and other services.
 # Open Graph is enabled by default.

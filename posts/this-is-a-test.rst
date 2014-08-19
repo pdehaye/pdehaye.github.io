@@ -6,4 +6,4 @@
 .. description: 
 .. type: text
 
-Does what it says on the tin.
+Does what it says on the tin!
