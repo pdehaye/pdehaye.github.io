@@ -5,31 +5,131 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://pdehaye.github.io/2014/index.html</loc>
+  <loc>http://paulolivier.dehaye.org/2014/index.html</loc>
   <lastmod>2014-08-19</lastmod>
  </url>
  <url>
-  <loc>http://pdehaye.github.io/archive.html</loc>
+  <loc>http://paulolivier.dehaye.org/archive.html</loc>
   <lastmod>2014-08-19</lastmod>
  </url>
  <url>
-  <loc>http://pdehaye.github.io/categories/index.html</loc>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/index.html</loc>
   <lastmod>2014-08-19</lastmod>
  </url>
  <url>
-  <loc>http://pdehaye.github.io/galleries/index.html</loc>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/plugin/markdown/example.html</loc>
   <lastmod>2014-08-19</lastmod>
  </url>
  <url>
-  <loc>http://pdehaye.github.io/index.html</loc>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/plugin/notes-server/notes.html</loc>
   <lastmod>2014-08-19</lastmod>
  </url>
  <url>
-  <loc>http://pdehaye.github.io/listings/index.html</loc>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/plugin/notes/notes.html</loc>
   <lastmod>2014-08-19</lastmod>
  </url>
  <url>
-  <loc>http://pdehaye.github.io/posts/this-is-a-test.html</loc>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/examples/barebones.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/examples/embedded-media.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/examples/math.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/examples/slide-backgrounds.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/test-markdown-element-attributes.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/test-markdown-slide-attributes.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/test-markdown.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/assets/reveal/test/test.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/categories/index.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/galleries/index.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/index.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/listings/index.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/posts/this-is-a-test.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/index.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/plugin/markdown/example.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/plugin/notes-server/notes.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/plugin/notes/notes.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/examples/barebones.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/examples/embedded-media.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/examples/math.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/examples/slide-backgrounds.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/test-markdown-element-attributes.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/test-markdown-slide-attributes.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/test-markdown.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/src/themes/reveal/assets/reveal/test/test.html</loc>
+  <lastmod>2014-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://paulolivier.dehaye.org/stories/about.html</loc>
   <lastmod>2014-08-19</lastmod>
  </url>
 </urlset>

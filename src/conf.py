@@ -18,10 +18,10 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Paul-Olivier Dehaye"  # (translatable)
-BLOG_TITLE = "Paul-Olivier Dehaye's Weblog"  # (translatable)
+BLOG_TITLE = "paulolivier.dehaye.org"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://pdehaye.github.io/"
+SITE_URL = "http://paulolivier.dehaye.org/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://pdehaye.github.io/"
