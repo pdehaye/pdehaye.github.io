@@ -1,0 +1,2 @@
+Sitemap: http://pdehaye.github.io/sitemapindex.xml
+
