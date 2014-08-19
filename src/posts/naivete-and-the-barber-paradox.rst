@@ -1,7 +1,7 @@
 .. title: Naiveté and the barber paradox
 .. slug: naivete-and-the-barber-paradox
 .. date: 2014-08-19 14:40:13 UTC+02:00
-.. tags: mathjax
+.. tags: mathjax, logic, society, mathematics
 .. link: 
 .. description: 
 .. type: text
