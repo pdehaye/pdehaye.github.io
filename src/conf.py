@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Paul-Olivier Dehaye"  # (translatable)
-BLOG_TITLE = "Five-by-five"  # (translatable)
+BLOG_TITLE = "Paul-Olivier Dehaye's Weblog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://pdehaye.github.io/"
@@ -26,7 +26,7 @@ SITE_URL = "http://pdehaye.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://pdehaye.github.io/"
 BLOG_EMAIL = "paulolivier@gmail.com"
-BLOG_DESCRIPTION = "Always climbing steps five steps at a time. Stumbling a lot."  # (translatable)
+BLOG_DESCRIPTION = "Opinions are my own"  # (translatable)
 
 # Nikola is multilingual!
 #
