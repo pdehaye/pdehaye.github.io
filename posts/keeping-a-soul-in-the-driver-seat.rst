@@ -1,4 +1,4 @@
-.. title: Keeping a Soul in the Driver Seat
+.. title: Keeping a Soul in the Driver's Seat
 .. slug: keeping-a-soul-in-the-driver-seat
 .. date: 2014-08-22 11:16:37 UTC+02:00
 .. tags: 
