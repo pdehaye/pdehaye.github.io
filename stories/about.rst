@@ -9,7 +9,7 @@
 
 My name is Paul-Olivier Dehaye. I live in Zurich with my wife and child. I am a mathematician (PhD Stanford, fellowships Oxford and ETH Zurich), interested in science in general, big data, FLOSS, and technology. 
 
-Should you want to contact me, the best is probably to do so by email (ping me at fkskfjewekgnkwfy @ dehaye dot org, an expandable email address) or Twitter.
+Should you want to contact me, the best is probably to do so by email (ping me at fkskfjewekgnkwfy @ dehaye dot org, an expandable email address) or Twitter
 
 .. raw :: html
 
