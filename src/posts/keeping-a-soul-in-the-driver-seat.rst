@@ -33,3 +33,5 @@ This assumes there is a car company that is sufficiently dominating the car indu
 
 (For other futuristic and "fun" questions on the transformation brought about by driverless cars, see the amazingly cold-blooded `If driverless cars save lives, where will we get organs? <http://fortune.com/2014/08/15/if-driverless-cars-save-lives-where-will-we-get-organs/>`_.)
 
+(Image credit: Wikipedia)
+
