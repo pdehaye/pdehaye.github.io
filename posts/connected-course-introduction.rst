@@ -7,7 +7,7 @@
 .. type: text
 .. author: Paul-Olivier Dehaye
 
-This is an introductory post for the connected course taking place at `connectedcourses.net <http://connectedcourses.net>`_.
+This is an introductory post for the connected course taking place at `connectedcourses.net <http://connectedcourses.net>`_. 
 
 My name is Paul-Olivier Dehaye, I am a research mathematician in Zurich. I have taught for close to 15 years at university level, and two years ago started investing time in online education. Last year I taught a `Programming in python` SPOC and `Teaching goes massive: New skills required <https://www.coursera.org/course/massiveteaching>`_ on Coursera, as well as supervising several edtech projects with students. I am rerunning the python SPOC in the Fall 2014. 
 
