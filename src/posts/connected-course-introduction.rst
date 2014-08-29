@@ -15,6 +15,8 @@ This course seems to match my interests very closely, and I am looking forward t
 
 I am also interested in the community of this course itself: are there marked differences between STEM and other fields? How to make STEM higher ed professors at research institutions understand the importance of those issues? How to communicate that bad decisions now could significantly affect the future of their profession?
 
-I am not entirely sure of how sustained my effort in the course will be, but will do my best!
+Due to personal reasons, I am not entirely sure of how sustained my effort in the course will be, but will do my best!
 
+I am participating in this course as an individual, a student seeking to learn more, and not acting as a representative of my employer. Undoubtedly though what I learn here I will seek to reapply in my professional life.
 Should you have any question about my motivation in participating in this course, please ask me below or in private. Thanks!
+
