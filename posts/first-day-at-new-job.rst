@@ -7,5 +7,5 @@
 .. type: text
 .. author: Paul-Olivier Dehaye
 
-`Got one of each now. <https://github.com/pdehaye/pdehaye.github.io/commit/941d5a38fb52a59af3d9e658d021d0d322ce0034#diff-100d13379c12af3fb41203dc73dc396e>`_ Will do my best. Hope to be up to the task.
+`Got one of each now. <https://github.com/pdehaye/pdehaye.github.io/commit/941d5a38fb52a59af3d9e658d021d0d322ce0034#diff-100d13379c12af3fb41203dc73dc396e>`_ Mom is doing fine. Will do my best. Hope to be up to the task.
 
