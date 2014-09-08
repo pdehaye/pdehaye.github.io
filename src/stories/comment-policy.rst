@@ -12,3 +12,4 @@ On my blog, I want to encourage free discussion around ideas and facts (includin
 As you see, this is a very similar definition to that of academic freedom (in fact, it is lifted from wikipedia). 
 
 For this reason, should I think that your comment needs to be deleted, I will do so and add a quote previously used by a university administrator to refine academic freedom at their own institution. 
+ 

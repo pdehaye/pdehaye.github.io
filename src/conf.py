@@ -96,10 +96,9 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
-	("http://www.twitter.com/podehaye","@podehaye"),
 	("/stories/about.html", "About"),
-	("/stories/comment_policy.html", "Comment policy"),
-
+	("http://www.twitter.com/podehaye","@podehaye"),
+	("/stories/comment-policy.html", "Comment policy"),
     ),
 }
 
