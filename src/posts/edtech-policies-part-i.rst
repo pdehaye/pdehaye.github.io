@@ -65,7 +65,7 @@ A few other contracts have been put online, intentionally or not, and can be fou
 
 (For a cool application of machine learning to the process of teaching, look also at the video around the 4:30 mark. Google seems to focus there on content rather than users, and to extract values from the student contributions rather than their private data. They effectively intend to crowdsource smarter compilers.)
 
-(I want to thank Ignacio Despujol Zabala for letting me know about Google I/O.)
+(I want to thank Ignacio Despujol Zabala for letting me know about this Google I/O session.)
 
 
 
