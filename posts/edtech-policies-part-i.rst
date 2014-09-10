@@ -52,10 +52,10 @@ I can only recommend this approach, but it has to be moderated by a quote given 
 
     Because Coursera mediates between instructor/university and user/student communication, we are dealing with at least four major relationships: user-Coursera, Coursera-instructor/university, user-Coursera-instructor/university, and vice versa. I am mainly focusing on the user-Coursera relation (terms of use and privacy policy), but it should be noted that these are really only separable at the analytical level. In reality, all of these relations are in play at any given time. 
 
-This leaves many unanswered questions: answering them requires access to other contracts, between the instructor, the university and Coursera itself. 
+This leaves many unanswered questions, which are not easy to address. It requires access to other contracts, between the instructor, the university and Coursera itself. 
 
-The main agreement between a university and Coursera, has been discussed back in 2012 (antiquity in the domain of MOOCs) in a Chronicle of Higher Education article. It is based on a Freedom of Information request for the `University of Michigan contracts <http://chronicle.com/article/Document-Examine-the-U-of/133063/>`_.
-More recently, the UCSC Faculty Union has entered negociations (sort of) with Coursera, that are `detailed on its blog <http://ucscfa.org/2013/06/scfas-ongoing-discussion-concerning-ucscs-contract-with-coursera/>`_. They specifically point out to differences with the University of Michigan contract:
+Only one such contract between a university and Coursera has been discussed on a wide scale, the contract given to the University of Michigan. It was the object of a 2012 (antiquity in the domain of MOOCs) Chronicle of Higher Education article. It is based on a Freedom of Information request for the `University of Michigan contracts <http://chronicle.com/article/Document-Examine-the-U-of/133063/>`_.
+More recently, the UCSC Faculty Union has entered negociations with Coursera, that are `detailed on its blog <http://ucscfa.org/2013/06/scfas-ongoing-discussion-concerning-ucscs-contract-with-coursera/>`_. From the outside, these seem very one sided and highlight differences with the University of Michigan contract:
 
     In the Michigan contract, the instructor grants to COURSERA various rights FOR THE DURATION SUCH CONTENT IS OFFERED THROUGH THE PLATFORM (i.e., very limited transfer  of rights).  In our contract, in contrast, the rights are granted TO THE UNIVERSITY and this appears to be irrevocable and not connected to the hosting of the course on the Coursera  platform.
 
