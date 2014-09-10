@@ -21,5 +21,6 @@ The site itself does not collect data. However I do use Google Analytics, which 
    :align: center
    :scale: 100% 
 
-The comments below are bound by the Disqus Terms of Service, which `available here <https://help.disqus.com/customer/portal/articles/466259-privacy-policy>`_.
+The comments below are bound by the Disqus Terms of Service, which are `available here <https://help.disqus.com/customer/portal/articles/466259-privacy-policy>`_.
 
+If you don't like it, you can leave. So is the law of the internet.
