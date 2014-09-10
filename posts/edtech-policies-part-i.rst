@@ -54,8 +54,8 @@ I can only recommend this approach, but it has to be moderated by a quote given 
 
 This leaves many unanswered questions, which are not easy to address. It requires access to other contracts, between the instructor, the university and Coursera itself. 
 
-Only one such contract between a university and Coursera has been discussed on a wide scale, the contract given to the University of Michigan. It was the object of a 2012 (antiquity in the domain of MOOCs) Chronicle of Higher Education article. It is based on a Freedom of Information request for the `University of Michigan contracts <http://chronicle.com/article/Document-Examine-the-U-of/133063/>`_.
-More recently, the UCSC Faculty Union has entered negociations with Coursera, that are `detailed on its blog <http://ucscfa.org/2013/06/scfas-ongoing-discussion-concerning-ucscs-contract-with-coursera/>`_. From the outside, these seem very one sided and highlight differences with the University of Michigan contract:
+Only one such contract between a university and Coursera has been discussed on a wide scale, the contract given to the University of Michigan. It was the object of a 2012 Chronicle of Higher Education article (an antiquity in the domain of MOOCs), and is based on a Freedom of Information request for the `University of Michigan contracts <http://chronicle.com/article/Document-Examine-the-U-of/133063/>`_.
+More recently, the UCSC Faculty Union has entered negociations with Coursera, that are `detailed on its blog <http://ucscfa.org/2013/06/scfas-ongoing-discussion-concerning-ucscs-contract-with-coursera/>`_. From the outside, these negociations seem very one-sided and highlight differences with the University of Michigan contract:
 
     In the Michigan contract, the instructor grants to COURSERA various rights FOR THE DURATION SUCH CONTENT IS OFFERED THROUGH THE PLATFORM (i.e., very limited transfer  of rights).  In our contract, in contrast, the rights are granted TO THE UNIVERSITY and this appears to be irrevocable and not connected to the hosting of the course on the Coursera  platform.
 
