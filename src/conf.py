@@ -99,6 +99,7 @@ NAVIGATION_LINKS = {
 	("/stories/about.html", "About"),
 	("http://www.twitter.com/podehaye","@podehaye"),
 	("/stories/comment-policy.html", "Comment policy"),
+	("/stories/privacy-policy.html", "Privacy policy"),
     ),
 }
 
