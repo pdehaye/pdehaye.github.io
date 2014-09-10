@@ -63,7 +63,7 @@ In other words, the balance of the Coursera contract shifts towards the instruct
 
 A few other contracts have been put online, intentionally or not, and can be found by googling titles etc. I found eight in total, which can serve as evidence of subtle shifts of the Coursera strategy, and also segmentation according to the characteristics of the universities involved (European vs. American, public vs. private, etc). Since many of those contracts are locked under Non Disclosure Agreements, and this has already become a union issue elsewhere, I can only encourage other academics to push for openness of those contracts at their own institutions.
 
-(For a cool application of machine learning to the process of teaching, look also at the video around the 4:30 mark. Google seems to focus there on content rather than users there, and to extract values from the student contributions rather than their private data. They effectively intend to crowdsource smarter compilers.)
+(For a cool application of machine learning to the process of teaching, look also at the video around the 4:30 mark. Google seems to focus there on content rather than users, and to extract values from the student contributions rather than their private data. They effectively intend to crowdsource smarter compilers.)
 
 (I want to thank Ignacio Despujol Zabala for letting me know about Google I/O.)
 
