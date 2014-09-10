@@ -1,7 +1,7 @@
 .. title: Click here so I can tell you about privacy (and invade yours too)
 .. slug: click-here-so-i-can-teach-you-about-privacy-and-invade-it-too
 .. date: 2014-09-10 08:44:21 UTC+02:00
-.. tags: privacy, edtech, switzerland
+.. tags: privacy, edtech, switzerland, connected_course
 .. link: 
 .. description: 
 .. type: text
