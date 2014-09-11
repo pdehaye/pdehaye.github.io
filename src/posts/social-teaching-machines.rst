@@ -1,7 +1,7 @@
 .. title: (Social) teaching machines
 .. slug: social-teaching-machines
 .. date: 2014-09-04 02:46:03 UTC+02:00
-.. tags: crypto, edtech, connected_course
+.. tags: crypto, edtech, connected_course, social_machine
 .. link: 
 .. description: 
 .. type: text
