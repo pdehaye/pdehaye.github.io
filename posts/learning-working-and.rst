@@ -41,3 +41,4 @@ In any case, this should give serious pause to any educator. One can see lots of
 
 So, what do you think? Anyone wants to submit a position paper (2 pages) on the topic? Any of my co-learners in MOOCs would like to collaborate on this? We could, well... crowdsource it...
 
+(of course, this was due yesterday: official deadline is "September")
