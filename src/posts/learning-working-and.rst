@@ -39,6 +39,6 @@ At the same time, over the summer, there was a huge controversy over the iffy et
 
 In any case, this should give serious pause to any educator. One can see lots of fields suddenly getting much too close, with very different or inexistent values. Online learners, just as Turkers, are vulnerable. `Martin Weller <http://nogoodreason.typepad.co.uk/no_good_reason/2014/06/the-ethics-of-digital-scholarship.html>`_ and `George Siemens <http://www.elearnspace.org/blog/2014/01/13/the-vulnerability-of-learning/>`_ have recently insisted on this. 
 
-So, what do you think? Anyone wants to submit a position paper (2 pages) on the topic? Any of my co-learners in MOOCs would like to collaborate on this? We could, well... crowdsource it...
+So, what do you think? Anyone wants to submit a position paper (2 pages) on the topic? Any of my co-learners in MOOCs would like to collaborate on this? We could, well... crowdsource it... Or is that too naive?
 
 (of course, this was due yesterday: official deadline is "September")
