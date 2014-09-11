@@ -50,7 +50,7 @@ In the case of autocompletion, the impact is certainly weak, but it might correl
 
 .. raw:: html
    
-   <br><br>
+   <br><br> 
 
 
 Yours should be different: most probably, `Terence Tao <http://en.wikipedia.org/wiki/Terence_Tao>`_, the short-sleeved mathematician in the middle row, is further down in yours. This is reasonable, and explained by `Christian Sandvig <http://www-personal.umich.edu/~csandvig/>`_ in a beautiful post called `Show-and-Tell: Algorithmic Culture <http://socialmediacollective.org/2014/03/25/show-and-tell-algorithmic-culture/>`_: since I am a mathematician, Google gives Tao a bump [1]_. And beyond that? Well, Google *really* thinks that academics wear robes half the time, and perpetuates this bias also visually, not just in autocomplete. 
