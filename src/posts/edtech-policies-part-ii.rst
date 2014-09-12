@@ -1,7 +1,7 @@
 .. title: Edtech policies (part II)
 .. slug: edtech-policies-part-ii
 .. date: 2014-09-11 23:16:55 UTC+02:00
-.. tags: coursera, god
+.. tags: coursera, crowdsourcing
 .. link: 
 .. description: 
 .. type: text

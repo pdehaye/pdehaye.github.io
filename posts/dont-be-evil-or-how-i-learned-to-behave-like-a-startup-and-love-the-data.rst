@@ -1,7 +1,7 @@
 .. title: "Don't be evil", or how I learned to behave like a startup and love the data
 .. slug: dont-be-evil-or-how-i-learned-to-behave-like-a-startup-and-love-the-data
 .. date: 2014-09-08 11:45:51 UTC+02:00
-.. tags: big data, ethics, privacy
+.. tags: ethics, privacy
 .. link: 
 .. description: 
 .. type: text

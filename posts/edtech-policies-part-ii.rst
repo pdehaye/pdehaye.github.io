@@ -1,7 +1,7 @@
 .. title: Edtech policies (part II)
 .. slug: edtech-policies-part-ii
 .. date: 2014-09-11 23:16:55 UTC+02:00
-.. tags: coursera, god
+.. tags: coursera, crowdsourcing
 .. link: 
 .. description: 
 .. type: text
@@ -54,7 +54,7 @@ Can we guess what XXIst century education might guarantee in terms of labor righ
    
    -- *Force majeure* clause 19.6 of University of Colorado Boulder contract (emphasis mine)
 
-I don't know if those risks are sorted in any way, but I can't help but notice that *act of God* sits right between 
+I don't know if those risks are sorted in any way, but can't help but notice that *act of God* sits right between 
 *labor dispute* and *failure of the Internet*. 
 
 
