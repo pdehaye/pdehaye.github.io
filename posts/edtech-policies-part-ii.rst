@@ -7,7 +7,7 @@
 .. type: text
 .. author: Paul-Olivier Dehaye
 
-This is the second post in a series. `Click here for the first <edtech-policies-part-i.rst>`_.
+For the first post in my series on edtech privacy policies, terms of service and contracts, click `here <edtech-policies-part-i.rst>`_.
 
 In his recent post *You are not alone* on the Salaita affair, Jonathan Rees `comments on the social media policies  <http://academeblog.org/2014/09/08/you-are-not-alone/>`_ enacted at the Colorado, Kentucky and New Mexico state systems. He encourages other professors to speak up: 
 
