@@ -1,7 +1,7 @@
 .. title: MOOCs as inventions #chals14
 .. slug: moocs-as-inventions-chals14
 .. date: 2014-09-24 13:39:41 UTC+02:00
-.. tags: coursera, mooc
+.. tags: coursera, mooc, social_machine
 .. link: 
 .. description: 
 .. type: text
