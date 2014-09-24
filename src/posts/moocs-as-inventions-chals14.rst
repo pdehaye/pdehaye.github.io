@@ -22,7 +22,7 @@ In retrospect, it was much better to be last speaker of the morning, to offer a 
    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
    </center>
 
-Now adding this to my reading list, since in fact he seems to talk a lot about mathematics too! It was also good to meet `J&ouml;rg Pareigis <http://jorg.pareigis.se/>`_, a fellow `#ccourses participant <>`_.
+Now adding this to my reading list, since in fact he seems to talk a lot about mathematics too! It was also good to meet `J&ouml;rg Pareigis <http://jorg.pareigis.se/>`_, a fellow `#ccourses participant <https://twitter.com/search?f=realtime&q=%23ccourses&src=typd>`_.
 
 Two quick mementos for myself: 
 
