@@ -1,7 +1,7 @@
 .. title: MOOCs as inventions #chals14
 .. slug: moocs-as-inventions-chals14
 .. date: 2014-09-24 13:39:41 UTC+02:00
-.. tags: coursera, mooc, social_machine
+.. tags: coursera, mooc, social_machine, connected_course
 .. link: 
 .. description: 
 .. type: text
@@ -22,7 +22,7 @@ In retrospect, it was much better to be last speaker of the morning, to offer a 
    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
    </center>
 
-Now adding this to my reading list, since in fact he seems to talk a lot about mathematics too!
+Now adding this to my reading list, since in fact he seems to talk a lot about mathematics too! It was also good to meet `J&ouml;rg Pareigis <http://jorg.pareigis.se/>`_, a fellow `#ccourses participant <>`_.
 
 Two quick mementos for myself: 
 
