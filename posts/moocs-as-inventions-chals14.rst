@@ -13,7 +13,7 @@ My slides are available `here <../goteborg-final.pdf>`_.
 
 In the talk, I discussed the idea that MOOCs are `social machines <http://en.wikipedia.org/wiki/Social_machine>`_ put in the hands of professors (thanks to my PhD student `Helen Riedtmann <http://www.math.uzh.ch/index.php?id=assistenten&L=&key1=4144&key2=&key3=&keySemId=>`_ for boiling down my ideas to this simple statement), and quoted Evgeny Morozov, which I am reading at the moment. 
 
-In retrospect, it was much better to be last speaker of the morning, to offer a (hopefully constructive) balance to some of the other points made earlier. It also lead naturally to interesting discussions (including with `Karin Markides <http://www.chalmers.se/en/about-chalmers/the-president-and-vice-presidents/Pages/karin-markides-president.aspx>`_, who asked me a few questions above my pay grade. It is much easier to convey these ideas offline than online, but indeed the audience is smaller and different).  Still, the digital world was interesting too: I was glad to see how Twitter added to the talk **for me** afterwards (something I am not used to, since very few mathematicians use Twitter), since it helped me assess how my ideas were received. In a talk about MOOCs' risks and opportunities, someone immediately called me up on the risks of the opportunities, with a reference to Jaron Lanier:
+In retrospect, it was much better to be last speaker of the morning, to offer a (hopefully constructive) balance to some of the other points made earlier. It also lead naturally to interesting discussions (including with `Karin Markides <http://www.chalmers.se/en/about-chalmers/the-president-and-vice-presidents/Pages/karin-markides-president.aspx>`_, who asked me a few questions above my pay grade. It is much easier to convey these ideas offline than online, but indeed the audience is smaller and different).  Still, the digital world was interesting too: I was glad to see how Twitter added to the talk **for me** afterwards (something I am not used to, since very few mathematicians use Twitter), which helped me assess how my ideas were received. In a talk about MOOCs' risks and opportunities, someone immediately called me up on the risks of the opportunities, with a reference to Jaron Lanier:
 
 .. raw:: html
 
@@ -22,9 +22,9 @@ In retrospect, it was much better to be last speaker of the morning, to offer a 
    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
    </center>
 
-Now adding this to my reading list, since in fact he seems to talk a lot about mathematics too! It was also good to meet `J&ouml;rg Pareigis <http://jorg.pareigis.se/>`_, a fellow `#ccourses participant <https://twitter.com/search?f=realtime&q=%23ccourses&src=typd>`_.
+Now adding this to my reading list, since in fact he seems to talk a lot about mathematics too! It was also good to meet `Jorg Pareigis <http://jorg.pareigis.se/>`_, a fellow `#ccourses participant <https://twitter.com/search?f=realtime&q=%23ccourses&src=typd>`_.
 
 Two quick mementos for myself: 
 
 - I have now traveled to the first 15 countries to constitute the European Union. 
-- I have never been before in such last minute trouble with computers: still private Google Slides locked out of my account, requiring Google two-factor authentication through a dead cell phone... Literally managed to get to the slide as I was walking to the stand.
+- I have never been before in such last minute trouble with computers: still private Google Slides locked out of my account, requiring Google two-factor authentication through a dead cell phone... Literally managed to get to the slides as I was walking to the stand.

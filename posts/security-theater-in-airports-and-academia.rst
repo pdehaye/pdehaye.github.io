@@ -128,7 +128,7 @@ Another is that he has resorted to using innuendos. I can use my own too.
 
     We see all the platforms now really starting to talk about the social aspects [..] of learning, which come from the other theories. 
 
-    -- *The Zuckerberg-wannabe of the higher education world*, aka the *Chief-Academic-Strategist-formerly-known-as-an-academic* aka Vivek Goel
+    -- The *Zuckerberg-wannabe of the higher education world*, aka the *Chief-Academic-Strategist-formerly-known-as-an-academic* aka Vivek Goel
 
 Don't worry, the nickname is based on `actual data <http://youtu.be/PCV5xBPoxnE?t=4m47s>`_. 
 
