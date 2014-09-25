@@ -1,7 +1,7 @@
 .. title: Security theatre, in airports and academia
 .. slug: security-theatre-in-airports-and-academia
 .. date: 2014-09-25 02:25:19 UTC+02:00
-.. tags: mooc, security_theatre, evgenymorozov, audreywatters, finkd, aral, gsiemens, why, jonathanmayer, bsaeta, nickdella, katemfd, connected_course
+.. tags: mooc, security_theatre, evgenymorozov, audreywatters, finkd, aral, gsiemens, why, jonathanmayer, bsaeta, nickdella, katemfd, connected_course, schneierblog
 .. link: 
 .. description: 
 .. type: text
@@ -138,7 +138,7 @@ Don't worry, the nickname is based on `actual data <http://youtu.be/PCV5xBPoxnE?
 
 .. [3] He only learned that at the very end, when I wrote #HelloSchiphol on my business card. There is, so far in my life, only one (repeated) instance where I have flashed the fact that I am a professor: apartment hunting in Switzerland, for which competition is so fierce that local society admits pretty much *any* move is fair. The fact that many academics pride themselves not to use business cards or Twitter show a profound lack of understanding of their own place in the physical and digital world: conversation with any other citizen is important and that might require using their medium.
 
-.. [4] To use the language of Bruce Schneier. 
+.. [4] To use the language of `Bruce Schneier <https://www.schneier.com>`_. 
 
 .. [5] I will admit it, I am jealous and do hope that Mayer has that written on his business card. As I explained in  `this post <http://paulolivier.dehaye.org/posts/the-academic-social-machine-part-I.html>`_ I currently fulfill four out of five crowdsourced stereotypes about academics, and am unsure of others' perception of me on the fifth (but I know where I stand). 
 
