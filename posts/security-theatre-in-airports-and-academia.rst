@@ -1,7 +1,7 @@
-.. title: Security theater, in airports and academia
-.. slug: security-theater-in-airports-and-academia
+.. title: Security theatre, in airports and academia
+.. slug: security-theatre-in-airports-and-academia
 .. date: 2014-09-25 02:25:19 UTC+02:00
-.. tags: mooc, security_theater, evgenymorozov, audreywatters, finkd, aral, gsiemens, why, jonathanmayer, bsaeta, nickdella, katemfd, connected_course
+.. tags: mooc, security_theatre, evgenymorozov, audreywatters, finkd, aral, gsiemens, why, jonathanmayer, bsaeta, nickdella, katemfd, connected_course
 .. link: 
 .. description: 
 .. type: text
@@ -54,13 +54,13 @@ But again he dismissed Balkan as just a tweeter among others, and I had to insis
 
 **Overall, this experience with Schiphol security was very positive, and I don't have a grudge against them anymore (provided they add relevant signage).**
 
-Now I want to contrast this with another security theater incident [4]_, this time in the MOOC space. In September 5th `talk by Audrey Watters <http://hackeducation.com/2014/09/05/beyond-the-lms-newcastle-university/>`_ about the Learning Management System, she says this:
+Now I want to contrast this with another security theatre incident [4]_, this time in the MOOC space. In September 5th `talk by Audrey Watters <http://hackeducation.com/2014/09/05/beyond-the-lms-newcastle-university/>`_ about the Learning Management System, she says this:
 
     The LMS was — is — designed as an Internet portal to the student information system, and much like the old portals of the Dot Com era, much like AOL for example, it cautions you when you try to venture outside of it. “ re you sure you want to leave AOL?” “Are you sure you want to leave the VLE?” “Aren’t you scared to be on the Web?” “There are strangers and strange ideas out there. Stay within the LMS! Stay within AOL!"
     
     -- Audrey Watters
 
-**There I was in Schiphol, facing the same security theater to cross an actual physical portal.**
+**There I was in Schiphol, facing the same security theatre to cross an actual physical portal.**
 
 Watters might have been picking on older technologies (AOL and LMSes), but on that very same day (Sept 5th) the very same issues resurfaced for more modern technology, through Jonathan Mayer. Mayer is a lawyer, but also a PhD student at Stanford in computer science. Like Balkan, he is a big advocate for privacy. 
 
@@ -104,7 +104,7 @@ Sure enough, 9 minutes into the first video, *social engineering* is highlighted
     
     -- Nick Dellamaggiore - Infrastructure Lead, a few seconds later
 
-This lack of public transparency is itself is a concern, in the context of the `Asilomar convention <http://asilomar-highered.info>`_. **Without more transparency from Coursera on their data policies, I have genuine concern that Coursera itself is just using security theater for commercial advantage** [8]_. 
+This lack of public transparency is itself is a concern, in the context of the `Asilomar convention <http://asilomar-highered.info>`_. **Without more transparency from Coursera on their data policies, I have genuine concern that Coursera itself is just using security theatre for commercial advantage** [8]_. 
 
 In case it is not clear at this stage, I still have a score to settle with Coursera, but I try to be a patient man. 
 
