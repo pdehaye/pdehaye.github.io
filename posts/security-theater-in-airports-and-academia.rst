@@ -21,7 +21,7 @@ I was just in Goteborg for the #Chals14 conference, where a big part of `my schp
    </center>
 
 
-Balkan is a privacy advocate, who has been trying to raise the attention of people to the `Spyware 2.0 model <https://aralbalkan.com/notes/spyware-2.0/>`_ employed by many companies now: in his Orwellian view, by offering free services, large corporations manage to convince us to give away all our data, so they can spy on us. He is involved in the `Indieweb <https://twitter.com/hashtag/Indieweb?src=hash&mode=news>`_ and peripherially (?) in the `Reclaim the Web movement <http://dmlcentral.net/blog/doug-belshaw/reclaiming-web-next-generation>`_, which also has declinations in the MOOC space (for instance with `Known <http://www.wired.com/2014/09/known/>`_). His tweet got me pretty upset: a few years ago, Schiphol security classified a present from my mom, high quality Belgian chocolate paste, as a liquid. Back then I had checked, and legally they were, at least at the time, within their rights: individual employees have ultimate classification decision and chocolate paste is indeed a grey area. Still, because of an arbitrary decision by a person who gleefully threw away a present in the bin, I was forced to make-do with Swiss chocolate for a while, a clearly inferior proposition. If you want to dismiss my reasons to do this, you could say that I have a score to settle with Schiphol security. 
+Balkan is a privacy advocate, who has been trying to raise the attention of people to the `Spyware 2.0 model <https://aralbalkan.com/notes/spyware-2.0/>`_ employed by many companies now: in his Orwellian view, by offering free services, large corporations manage to convince us to give away all our data, so they can spy on us. He is leading the `Indie-tech movement <http://ind.ie/manifesto>`_ and peripherially (?) in the `Reclaim the Web movement <http://dmlcentral.net/blog/doug-belshaw/reclaiming-web-next-generation>`_, which also has declinations in the MOOC space (for instance with `Known <http://www.wired.com/2014/09/known/>`_). His tweet got me pretty upset: a few years ago, Schiphol security classified a present from my mom, high quality Belgian chocolate paste, as a liquid. Back then I had checked, and legally they were, at least at the time, within their rights: individual employees have ultimate classification decision and chocolate paste is indeed a grey area. Still, because of an arbitrary decision by a person who gleefully threw away a present in the bin, I was forced to make-do with Swiss chocolate for a while, a clearly inferior proposition. If you want to dismiss my reasons to do this, you could say that I have a score to settle with Schiphol security. 
 
 .. image:: ../schiphol-hand.jpg
    :align: right
@@ -86,6 +86,10 @@ Coursera's response was given in a `blog post  <http://blog.coursera.org/post/96
 
 In his talk at the Coursera Partners' Conference, Dellamaggiore has a background slide with the actual class that his Infrastructure team takes: Cryptography I, on Coursera of course, by Dan Boneh (ironically from Stanford). I went and looked at that course. 
 
+.. raw:: html
+
+   <br>
+
 .. image:: ../crypto1.jpg
    :scale: 70%
    :align: center
@@ -93,9 +97,8 @@ In his talk at the Coursera Partners' Conference, Dellamaggiore has a background
 .. raw:: html
 
    <br>
-   <br>
 
-Sure enough, 9 minutes into the first video, *social engineering* is highlighted as nullifying the value of encryption and many other security methods. Given that Coursera superprofessors are supposed to be the best of the best, and given the way academia works, I expect a fair share of Coursera professors to be greying a bit. **I want to question how the decision was made by Coursera to think those professors could be trusted with this level of access**. I have had access to more information than the general public to help answer this question, but do not know enough at this time to actually answer it. **I am not willing to reshare publicly the information I still have because of personal legal risk.**
+Sure enough, 9 minutes into the first video, *social engineering* is highlighted as nullifying the value of encryption and many other security methods. Given that Coursera superprofessors are supposed to be the best of the best (at their very very narrow discipline), and given the way academia works, I expect a fair share of Coursera professors to be greying a bit. **I want to question how the decision was made by Coursera to think those professors could be trusted with this level of access**. I have had access to more information than the general public to help answer this question, but do not know enough at this time to actually answer it. **I am not willing to reshare publicly the information I still have because of personal legal risk.**
 
     That's great, but how do we keep data from falling in the wrong hands, say they try to access our physical machines in the cloud or our production databases or what not. So this slide is a little bit more technical, so bear with me, I will kind of go through it quicker. 
     
@@ -107,7 +110,7 @@ In case it is not clear at this stage, I still have a score to settle with Cours
 
     If someone’s not going to follow the practices, that’s something that society faces in general, and that’s why we have police and courts [..] In the academic world, we don’t need police and courts, but we have academic discipline, we have academic institutional standards, we have research standards. If people don’t comply with those, they do need to be deal[t] with. In our set of relationships, that’s between the university and the instructor. 
     
-    -- `Vivek Goel  <https://www.insidehighered.com/news/2014/07/15/after-massiveteaching-questions-about-mooc-quality-control>`_, Chief Academic Strategist, Coursera and apparently also `still a professor at the Dalla Lana School of Public Health and the Institute for Health Policy, Management & Evaluation <http://blog.coursera.org/post/77181132056/welcome-vivek-goel-to-courseras-leadership-team>`_
+    -- `Vivek Goel  <https://www.insidehighered.com/news/2014/07/15/after-massiveteaching-questions-about-mooc-quality-control>`_, Chief Academic Strategist, Coursera and apparently also "`still a professor at the Dalla Lana School of Public Health and the Institute for Health Policy, Management & Evaluation <http://blog.coursera.org/post/77181132056/welcome-vivek-goel-to-courseras-leadership-team>`_"
 
 Goel is textually correct of course. But he is also intentionally misleading (by offering this generic quote in an article about a course that I ran). And he is also unintentionally short-sighted, for very many reasons. One is that he indeed reminds me of looking up the local rules.
 
@@ -125,7 +128,7 @@ Another is that he has resorted to using innuendos. I can use my own too.
 
     We see all the platforms now really starting to talk about the social aspects [..] of learning, which come from the other theories. 
 
-    -- *The Zuckerberg-wannabe of the higher education world*, aka the *Chief-Academic-Strategist-formerly-known-as-an-academic* aka Vivek Goel. 
+    -- *The Zuckerberg-wannabe of the higher education world*, aka the *Chief-Academic-Strategist-formerly-known-as-an-academic* aka Vivek Goel
 
 Don't worry, the nickname is based on `actual data <http://youtu.be/PCV5xBPoxnE?t=4m47s>`_. 
 
