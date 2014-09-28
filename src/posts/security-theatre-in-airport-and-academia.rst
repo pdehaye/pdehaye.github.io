@@ -1,7 +1,7 @@
 .. title: Security theatre, in airports and academia
 .. slug: security-theatre-in-airports-and-academia
 .. date: 2014-09-25 02:25:19 UTC+02:00
-.. tags: mooc, security_theatre, evgenymorozov, audreywatters, finkd, aral, gsiemens, why, jonathanmayer, bsaeta, nickdella, katemfd, connected_course, schneierblog
+.. tags: mooc, security_theatre, evgenymorozov, audreywatters, finkd, aral, gsiemens, why, jonathanmayer, bsaeta, nickdella, katemfd, connected_course, schneierblog, connected_course
 .. link: 
 .. description: 
 .. type: text
