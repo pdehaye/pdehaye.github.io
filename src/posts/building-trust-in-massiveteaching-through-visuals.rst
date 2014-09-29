@@ -10,7 +10,7 @@
 
 As part of the module on trust in `Connected Courses <http://www.connectedcourses.net>`_, I would like to share some tricks that I have used to visually build trust across cultures. It was especially powerful for me to watch Jonathan Worth's video on `Leveraging your why <http://phonar.org/2014/09/leveraging-you-why-in-answer-to-mike-wesch/>`_ [1]_. 
 
-Welsh offers that his "Why?" for #phonar is actually citizen journalism, and discusses a photo by John Stanmeyer, winner of the World Press Photo 2013 award.
+Worth offers that his "Why?" for #phonar is actually citizen journalism, and discusses a photo by John Stanmeyer, winner of the World Press Photo 2013 award.
 
 .. epigraph::
 
@@ -18,7 +18,7 @@ Welsh offers that his "Why?" for #phonar is actually citizen journalism, and dis
 
    -- `Jonathan Worth <http://phonar.org/2014/09/leveraging-you-why-in-answer-to-mike-wesch/>`_
 
-Part of my efforts with my `Coursera course <http://www.coursera.org/course/massiveteaching>`_ *Massive Teaching: News skills required* were some interesting blend of Welsh's efforts in #phonar and in #connected_courses. Let's first consider the exact opposite of what I did. Relax, prepare some popcorn, and watch the following video. 
+Part of my efforts with my `Coursera course <http://www.coursera.org/course/massiveteaching>`_ *Massive Teaching: News skills required* were some interesting blend of Worth's efforts in #phonar and in #connected_courses. Let's first consider the exact opposite of what I did. Relax, prepare some popcorn, and watch the following video. 
 
 .. raw:: html
 
