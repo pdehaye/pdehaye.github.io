@@ -69,7 +69,7 @@ Note a few things:
 - I encouraged my students to do the same, by describing my process as throgouhly as possible (done here again);
 - None of those cheap tricks are new, it is mere borrowing of on-the-street intelligence of High School teachers and the Maker movement. 
 
-As stated, one of the sidegoals was to enable anyone to do this, and for anyone to create trust with anyone else, without necessarily going through a central authority (like that provided by my Coursera course). For this purpose, I selected some articles to help guide students on what might build trust across cultural divides, such as `this one  <http://www.featureshoot.com/2013/03/photos-of-children-from-around-the-world-with-their-most-prized-possessions/>`_, which clearly echoes the emotional response I was referring to earlier.
+As stated, one of the sidegoals was to enable anyone to do this, and for anyone to create trust with anyone else, without necessarily going through a central authority (like that provided by my Coursera course). For this purpose, I selected some articles to help guide students on what might build trust across cultural divides, such as `this one  <http://www.featureshoot.com/2013/03/photos-of-children-from-around-the-world-with-their-most-prized-possessions/>`_, which clearly echoes the emotional response I was referring to earlier. 
 
 
 So what happened with *Massive Teaching*? 
