@@ -10,11 +10,7 @@
 
 As part of the module on trust in `Connected Courses <http://www.connectedcourses.net>`_, I would like to share some tricks that I have used to visually build trust across cultures. It was especially powerful for me to watch Jonathan Worth's video on `Leveraging your why <http://phonar.org/2014/09/leveraging-you-why-in-answer-to-mike-wesch/>`_ [1]_. 
 
-Welsh offers that his "Why?" for #phonar is actually citizen journalism, and discusses a photo which is indeed by John Stanmeyer:
-
-.. image:: ../stanmeyer.jpg
-   :align: center
-   :scale: 50%
+Welsh offers that his "Why?" for #phonar is actually citizen journalism, and discusses a photo by John Stanmeyer, winner of the World Press Photo 2013 award.
 
 .. epigraph::
 
