@@ -80,7 +80,6 @@ Well, despite my best efforts it turns out that the fact that Coursera owned the
 
 .. [2] Judging from aggregate and individual feedback, that was achieved.
 
-
 .. [3] This echoes a parallel effort in academic publishing in some disciplines. Indeed, the refereeing process, which is a form of  authority and power, is done double-blind, to prevent reinforcement of biases. In mathematics the author of a submitted paper is not anonymous to the referee, which is arguably a problem. 
 
 .. [4] This in itself is very interestingly pain point. Can I use a DUPLO piece as a tool? I had `to ask a lawyer for that <http://dearrichblog.blogspot.ch/2014/05/cut-out-animations-moocs-and-copyright.html>`_. 
