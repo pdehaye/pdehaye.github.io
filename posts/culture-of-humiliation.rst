@@ -9,7 +9,7 @@
 
 I have learned a lot recently about online humiliation. 
 
-Monica Lewinsky's `Vanity Fair piece <http://www.vanityfair.com/society/2014/06/monica-lewinsky-humiliation-culture>`_ was very insightful. Indeed, if anyone would know about being the victim of online shaming, it would be her. Interestingly, she shares that a new stage of horror for her was achieved when she understood the impact ~her~ his scandal had on her family. 
+Monica Lewinsky's `Vanity Fair piece <http://www.vanityfair.com/society/2014/06/monica-lewinsky-humiliation-culture>`_ was very insightful. Indeed, if anyone would know about being the victim of online shaming, it would be her. Interestingly, she shares that a new stage of horror for her was achieved when she understood the impact his scandal had on her family. 
 
     In September of 2010, the culmination of these experiences began to snap into a broader context for me. A phone conversation with my mother shifted the lens through which I viewed my world. We were discussing the tragic death of Tyler Clementi. Tyler, you will recall, was an 18-year-old Rutgers freshman who was secretly streamed via Webcam kissing another man. Days later, after being derided and humiliated on social media, he committed suicide by jumping off the George Washington Bridge.
 
@@ -22,8 +22,6 @@ Monica Lewinsky's `Vanity Fair piece <http://www.vanityfair.com/society/2014/06/
 Look at the year, 2010, that's twelve years after the facts. A lot of time for a mom to suffer with weakened trust in her daughter that she would take on life, with its good and bad days. 
 
 Something else that crossed my path is a `post by Cathy O'Neil on her blog mathbabe <http://mathbabe.org/2014/09/30/people-hate-me-i-must-be-doing-something-right/>`_, where she discusses some ways she has built a thick skin and maintains confidence in herself, even in the face of criticism that can get very personal. 
-
-She ends the piece with this:
 
     But there’s one other thing I conclude when I piss people off: that I’m getting under their skin, which means what I’m saying is getting out there, to a wider audience than just people who already agree with me, and if that guy hates me then maybe 100 other people are listening and not quite hating me. They might even be agreeing with me. They might even be changing their minds about some things because of my arguments.
 

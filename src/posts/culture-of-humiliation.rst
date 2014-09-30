@@ -9,7 +9,7 @@
 
 I have learned a lot recently about online humiliation. 
 
-Monica Lewinsky's `Vanity Fair piece <http://www.vanityfair.com/society/2014/06/monica-lewinsky-humiliation-culture>`_ was very insightful. Indeed, if anyone would know about being the victim of online shaming, it would be her. Interestingly, she shares that a new stage of horror for her was achieved when she understood the impact ~her~ his scandal had on her family. 
+Monica Lewinsky's `Vanity Fair piece <http://www.vanityfair.com/society/2014/06/monica-lewinsky-humiliation-culture>`_ was very insightful. Indeed, if anyone would know about being the victim of online shaming, it would be her. Interestingly, she shares that a new stage of horror for her was achieved when she understood the impact his scandal had on her family. 
 
     In September of 2010, the culmination of these experiences began to snap into a broader context for me. A phone conversation with my mother shifted the lens through which I viewed my world. We were discussing the tragic death of Tyler Clementi. Tyler, you will recall, was an 18-year-old Rutgers freshman who was secretly streamed via Webcam kissing another man. Days later, after being derided and humiliated on social media, he committed suicide by jumping off the George Washington Bridge.
 
