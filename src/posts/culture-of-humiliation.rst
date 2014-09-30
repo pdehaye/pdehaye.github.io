@@ -1,7 +1,7 @@
 .. title: Culture of humiliation
 .. slug: culture-of-humiliation
 .. date: 2014-09-30 23:37:43 UTC+02:00
-.. tags: trust
+.. tags: trust, connected_course
 .. link: 
 .. description: 
 .. type: text
