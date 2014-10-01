@@ -1,5 +1,5 @@
-.. title: Survey of mathematical collaboratories (2011)
-.. slug: 
+.. title: Activating mathematical knowledge
+.. slug: activating-mathematical-knowledge
 .. date: 2014-10-01 01:26:35 UTC+02:00
 .. tags: math, social_machine
 .. link: 
