@@ -1,7 +1,7 @@
 .. title: Coursera and Safe Harbour of student data
 .. slug: coursera-and-safe-harbour-of-student-data
 .. date: 2014-10-10 20:33:34 UTC+02:00
-.. tags: coursera, privacy
+.. tags: coursera, privacy, trust, connected_course
 .. link: 
 .. description: 
 .. type: text
