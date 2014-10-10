@@ -26,7 +26,7 @@ The developments around **MOOCs have very serious consequences for privacy**. Do
 
 All these ideas were extensively tested when I taught the class *Teaching goes massive: new skills required* on `Coursera <https://www.coursera.org/course/massiveteaching>`_. Parts of this class were supposed to cover some of those issues, and explain directly to the students most concerned the privacy issues associated to Coursera's business models. Instead, I was **censored**, **insulted**, **vilified** and **legally threatened**, and Coursera used **false, misleading or deeply intrusive** data held about the course or me to get my employer to launch a disciplinary procedure against me (as even `hinted to a newspaper <https://www.insidehighered.com/news/2014/07/15/after-massiveteaching-questions-about-mooc-quality-control>`_!). On top, of course, my students have been left in the dark. And I have lost access to my course materials. 
 
-Fortunately, Safe Harbour is a recourse here for me. I have submitted a request to Coursera, if only to get back access to the material created. 
+Fortunately, `Safe Harbour is a recourse here <https://www.coursera.org/about/privacy>`_ for me (as it is to any European student on Coursera). I have submitted a request to Coursera, if only to get back access to the material created. 
 
 Moving forward, Ansip has decided to follow a suggestion of `Julia Reda <https://juliareda.eu/en/>`_, a Pirate Party MEP, and host an online town hall meeting as well. 
 
