@@ -7,7 +7,7 @@
 .. type: text
 .. author: Paul-Olivier Dehaye
 
-The European Union and Switzerland have agreements on free trade with the United States. One of those is Safe Harbour, which has drastic implication for privacy [1]_. In principle, Safe Harbour is a good idea: it creates little (business) friction but ensures some form of citizen oversight over the fastest evolving areas of e-commerce, by enforcing transparency. It is being heavily tested though: in light of the Snowden revelations, there is growing understanding that this data originally held for commercial reasons is also a leverage of power. Andrus Ansip, the European Commissioner for Digital Single Market (designate)  `acknowledged <http://www.euractiv.com/sections/innovation-enterprise/ansip-threatens-suspend-safe-harbour-data-agreement-us-308962>`_ `this <http://bits.blogs.nytimes.com/2014/10/06/europe-digital-nominee-demands-stronger-u-s-data-rules/>`_ in his hearings to be confirmed.
+The European Union and Switzerland have agreements on free trade with the United States. One of those is **Safe Harbour**, which has **drastic implication for privacy**. In principle, Safe Harbour is a good idea: it creates **little (business) friction** but ensures some form of **citizen oversight** over the fastest evolving areas of e-commerce, by **enforcing transparency** [1]_. It is being heavily tested though: in light of the Snowden revelations, there is growing understanding that this data originally held for commercial reasons is also a leverage of power. Andrus Ansip, the European Commissioner for Digital Single Market (designate)  `acknowledged <http://www.euractiv.com/sections/innovation-enterprise/ansip-threatens-suspend-safe-harbour-data-agreement-us-308962>`_ `this <http://bits.blogs.nytimes.com/2014/10/06/europe-digital-nominee-demands-stronger-u-s-data-rules/>`_ in his hearings to be confirmed.
 
 .. raw:: html 
 
@@ -47,7 +47,15 @@ This hearing will take place soon, let's see what Coursera will have responded b
    </center>
 
 
-.. [1] Let's say a US company wants to do business in the EU. The EU, well aware of dangers associated with big data businesses, is concerned about the privacy of its citizens. At the same time, it does not want to hamper innovation. The solution found with Safe Harbour is to at least ensure transparency: any European citizen can ask to consult their data, what it is used for, etc. The situation was different a few years ago: I had to wait for Facebook to set up European Headquartes in Ireland to ask for access to my data.
+.. [1] Let's say a US company wants to do business in the EU. The EU, well aware of dangers associated with big data businesses, is concerned about the privacy of its citizens. At the same time, it does not want to hamper innovation. The solution found with Safe Harbour is to enforce a **series of privacy principles**,  as listed on the `Wikipedia page <http://en.wikipedia.org/wiki/International_Safe_Harbor_Privacy_Principles>`_: 
+
+- Notice - Individuals must be informed that their data is being collected and about how it will be used.
+- Choice - Individuals must have the option to opt out of the collection and forward transfer of the data to third  parties.
+- Onward Transfer - Transfers of data to third parties may only occur to other organizations that follow adequate data protection principles.
+- Security - Reasonable efforts must be made to prevent loss of collected information.
+- Data Integrity - Data must be relevant and reliable for the purpose it was collected for.
+- Access - **Individuals must be able to access information held about them**, and correct or delete it if it is inaccurate.
+- Enforcement - There must be effective means of enforcing these rules.
 
 .. [2] Ansip is also former Prime Minister of Estonia, a country very much ahead in everything digital. One can even `become e-citizen there and get digital residency <http://www.ibtimes.co.uk/estonia-first-country-offer-e-residency-digital-citizenship-1468766>`_, with minimal requirements.
 
