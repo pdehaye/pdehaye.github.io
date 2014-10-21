@@ -28,7 +28,7 @@ Finally, we should not forget what we lose by automating any component of an edu
 
 .. [2] As an example, Coursera `refuses to comply with the EU and/or Swiss Data Protection Authorities  <http://safeharbor.export.gov/companyinfo.aspx?id=21417>`_.
 
-.. [3] As masterfully explained by Jay Rosen, journalism professor at NYU, in `two <http://www.theatlantic.com/technology/archive/2014/07/facebook-has-all-the-power-you-have-almost-none/374215/>`_ `articles <http://www.washingtonpost.com/posteverything/wp/2014/07/03/dont-blame-facebook-for-screwing-with-your-mood-blame-academia/>`_ written in the wake of the Facebook Emotion experiment.
+.. [3] As masterfully explained by Jay Rosen, journalism professor at NYU, in `two <http://www.theatlantic.com/technology/archive/2014/07/facebook-has-all-the-power-you-have-almost-none/374215/>`_ `articles <http://www.washingtonpost.com/posteverything/wp/2014/07/03/dont-blame-facebook-for-screwing-with-your-mood-blame-academia/>`_ written in the wake of the Facebook Emotion experiment. I detail some of `my concerns here <./erosion-of-thick-legitimacy-by-coursera.html>`_.
 
 .. [4] See the two workshops at `HCOMP 2014 <http://www.humancomputation.com/2014/>`_ for these trends in *human computation*. 
 
