@@ -121,3 +121,5 @@ In the end, it feels like I have missed a chance to raise this debate and others
 - interactions `between MOOCs and citizen science or open democracies projects <http://hci.uwaterloo.ca/faculty/elaw/citizenx/program.html>`_;
 
 Of course, I missed a chance, but any of the other 103 Coursera partners, of which 25 or so are European or Swiss, have the option of starting a course on the same topics. I think it is very much needed: the shared interest of students and academics is to discuss these issues directly together at scale, without channeling this interaction through an intermediate corporation with obvious monetary interest. It is not clear that that many students are actually aware of any of those issues, highlighting the need for an urgent intervention on the topic. 
+
+(I realise I have not answered all the questions or concerns that people might have about the course. The comment section is below, feel free to use it!)
