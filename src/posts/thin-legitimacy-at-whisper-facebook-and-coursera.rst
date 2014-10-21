@@ -1,7 +1,7 @@
 .. title: Thin legitimacy at Whisper, Facebook and Coursera
 .. slug: thin-legitimacy-at-whisper-facebook-and-coursera
 .. date: 2014-10-20 12:30:45 UTC+02:00
-.. tags: whipser, coursera, facebook
+.. tags: whipser, coursera, facebook, cogdog, holden, katemfd, derekbruff
 .. link: 
 .. description: 
 .. type: text
