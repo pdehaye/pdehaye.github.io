@@ -32,6 +32,7 @@ In consequence, I structured the course `in the following way <https://www.youtu
 - week 3: business model, science fiction (utopia/dystopia), unresolved questions
 
 In other words, the first two weeks were conceived to provide background for the third week, which would be quite critical of MOOC contracts. I didn't hide from Coursera or the students that I would be critical, and used the flexibility offered by Coursera not to provide the third week material ahead of time. There were several reasons for this: 
+
 - The MOOC world changes fast. In the three weeks before the course started, two comprehensive reports came out on MOOCs. I also `attended two conferences on MOOCs, and was co-organiser of one <./what-i-am-doing-with-moocs-and-why-june-2nd.html>`_. 
 - I knew there was a risk that Coursera would shut down the course, either directly or indirectly. Coursera did drag their feet more and more in the lead up to the course. I attribute that to the realisation of the extent of what I wanted to say, but they could easily chalk it to other reasons. 
 

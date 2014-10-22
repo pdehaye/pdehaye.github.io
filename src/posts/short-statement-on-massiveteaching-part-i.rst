@@ -7,6 +7,8 @@
 .. type: text
 .. author: Paul-Olivier Dehaye
 
+(I will be in Brussels November 6th and 7th, will be happy to discuss those issues then with anyone at the EU)
+
 (For a more extended statement, see `here <./extended-statement-on-massiveteaching-part-ii.html>`_)
 
 My name is Paul-Olivier Dehaye, I am a mathematics professor at the University of Zurich. On June 23rd 2014, I started to teach a MOOC on Coursera, called *Teaching goes massive: New skills required*, which was intended to last for three weeks and include a component on business practices of MOOC providers. During the course delivery, my perception of the ethical issues surrounding the course changed, which led me to alter its delivery methods. This prompted a reaction by Coursera itself, and I was censored [1]_. In the fallout, I was also insulted and vilified online. Coursera used intentionally misleading information and deeply intrusive data held about the course and me to try to get my employer to launch a disciplinary procedure against me. Legal threats were also made.
