@@ -1,7 +1,7 @@
 .. title: Dear Daphne
 .. slug: dear-daphne
 .. date: 2014-10-24 15:53:11 UTC+02:00
-.. tags:  coursera, massiveteaching
+.. tags:  coursera, massiveteaching, t509massive, scholar14, connected_course
 .. link: 
 .. description: 
 .. type: text
