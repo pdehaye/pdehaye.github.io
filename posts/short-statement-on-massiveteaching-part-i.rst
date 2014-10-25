@@ -1,7 +1,7 @@
 .. title: Statement on #massiveteaching (part I)
 .. slug: short-statement-on-massiveteaching-part-i
 .. date: 2014-10-20 23:43:30 UTC+02:00
-.. tags: massiveteaching, coursera, mooc, privacy, ethics, connected_course, scholar14, t509massive
+.. tags: massive_teaching, coursera, mooc, privacy, ethics, connected_course, scholar14, t509massive
 .. link: 
 .. description: 
 .. type: text

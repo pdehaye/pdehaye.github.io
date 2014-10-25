@@ -1,7 +1,7 @@
 .. title: Extended statement on #massiveteaching (part II)
 .. slug: extended-statement-on-massiveteaching-part-ii
 .. date: 2014-10-21 00:00:37 UTC+02:00
-.. tags: coursera, mooc, massiveteaching, privacy, ethics
+.. tags: coursera, mooc, massive_teaching, privacy, ethics
 .. link: 
 .. description: 
 .. type: text
