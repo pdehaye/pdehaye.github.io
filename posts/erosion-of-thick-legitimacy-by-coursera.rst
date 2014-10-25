@@ -1,7 +1,7 @@
 .. title: Erosion of thick legitimacy by Coursera
 .. slug: erosion-of-thick-legitimacy-by-coursera
 .. date: 2014-10-20 15:21:14 UTC+02:00
-.. tags: coursera, ethics, massiveteaching
+.. tags: coursera, ethics, massive_teaching
 .. link: 
 .. description: 
 .. type: text
