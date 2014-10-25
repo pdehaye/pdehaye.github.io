@@ -7,7 +7,6 @@
 .. type: text
 .. author: Paul-Olivier Dehaye
 
-(I will be in Brussels November 6th and 7th, will be happy to discuss those issues then with anyone at the EU)
 
 (For a more extended statement, see `here <./extended-statement-on-massiveteaching-part-ii.html>`_)
 
