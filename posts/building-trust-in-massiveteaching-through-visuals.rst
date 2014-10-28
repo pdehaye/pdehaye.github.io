@@ -18,7 +18,11 @@ Worth offers that his "Why?" for #phonar is actually citizen journalism, and dis
 
    -- `Jonathan Worth <http://phonar.org/2014/09/leveraging-you-why-in-answer-to-mike-wesch/>`_
 
-Part of my efforts with my `Coursera course <http://www.coursera.org/course/massiveteaching>`_ *Massive Teaching: News skills required* were some interesting blend of Worth's efforts in #phonar and in #connected_courses. Let's first consider the exact opposite of what I did. Relax, prepare some popcorn, and watch the following video. 
+Part of my efforts with my `Coursera course <http://www.coursera.org/course/massiveteaching>`_ *Massive Teaching: News skills required* were some interesting blend of Worth's efforts in #phonar and in #connected_courses. 
+
+.. TEASER_END: (Click to read the rest of the article)
+
+Let's first consider the exact opposite of what I did. Relax, prepare some popcorn, and watch the following video. 
 
 .. raw:: html
 

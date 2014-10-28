@@ -11,6 +11,8 @@ In April 2014, I submitted a research proposal [1]_. Its title is *Engineering D
 
 The proposal is in two part, an `Extended Synopsis <http://user.math.uzh.ch/dehaye/ERC/ExtendedSynopsis_Dehaye.pdf>`_ and a `Research Plan <http://user.math.uzh.ch/dehaye/ERC/ResearchPlan_Dehaye.pdf>`_.
 
+.. TEASER_END: (Click to read the rest of the article)
+
 The main goal (project Z) of this four year proposal is to formalise mathematics. This is utterly unrealistic, and of course is to be considered a beacon very very far in the distance. `Fields medalist Voevodsky suggests a 500 year horizon <paul-bernays-lectures-at-eth-zurich.html>`_ for this! To pile on to the difficulty of doing this, Thomas Hales explains his motivation of embarking on a formal proof of his own result, the proof of the Kepler conjecture. The background is that his paper had been accepted in one of the most prestigious mathematics journal, but conditionally on the grounds that his computer-generated proof was so complex that it could not be verified by even a team of 20 (very well trained) human referees:
 
     In truth, my motivations for the project are far more complex than a simple hope of removing residual doubt from the minds of few referees. Indeed, I see formal methods as fundamental to the long-term growth of mathematics.

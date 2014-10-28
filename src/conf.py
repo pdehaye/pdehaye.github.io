@@ -405,7 +405,7 @@ OUTPUT_FOLDER = '..'
 # }
 
 # Show only teasers in the index pages? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -613,7 +613,7 @@ COMMENT_SYSTEM_ID = "pdehaye-blog"
 # RSS_LINK = None
 
 # Show only teasers in the RSS feed? Default to True
-# RSS_TEASERS = True
+RSS_TEASERS = False
 
 # Strip HTML in the RSS feed? Default to False
 # RSS_PLAIN = False

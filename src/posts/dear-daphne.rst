@@ -22,8 +22,12 @@ The following is an open letter to Daphne Koller, CEO of Coursera. I sent her al
   University of Zurich
 
 
+.. TEASER_END: (Click to read the letter itself)
+
+
 Letter to Coursera students of "Massive Teaching: New skills required"
 ======================================================================
+
 
  Dear students of "Massive Teaching: New skills required", 
  

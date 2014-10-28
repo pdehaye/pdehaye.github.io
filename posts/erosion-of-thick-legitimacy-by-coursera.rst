@@ -21,6 +21,8 @@ What happened in my course is certainly complex, and this not meant to be an acc
    </center>
    <br>
 
+.. TEASER_END: (Click to read the rest of the article)
+
 For my own teaching, I had adopted a model that I will call *Agile Teaching*. In fact, I explained what I meant by this in a separate video for the course: 
 
 .. raw:: html

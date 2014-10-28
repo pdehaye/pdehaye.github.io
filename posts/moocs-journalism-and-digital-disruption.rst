@@ -16,6 +16,8 @@
 
 I just listened to `an audio interview <https://archive.org/details/RitchinBtfInterview>`_ conducted by Jonathan Worth for his `photography course #phonar <http://phonar.org.uk>`_, back in 2013. The interviewee is `Fred Ritchin <http://en.wikipedia.org/wiki/Fred_Ritchin>`_, a journalist, professor and author. Originally I was attracted to the interview because of a question asked by Ritchin during a #ccourses hangout about trust. He essentially asked how an entire profession (journalism) could rebuild trust with its audience once it was lost. It felt as if he was hoping educators could help give an answer that is eluding his profession. 
 
+.. TEASER_END: (Click to read the rest of the article)
+
 I have talked `before on this blog <./building-trust-in-massiveteaching-through-visuals.html>`_ of the parallels I see in Worth's approach in #phonar and mine with MOOC teaching. It looks like Ritchin can help explore these parallels. 
 
 .. epigraph::

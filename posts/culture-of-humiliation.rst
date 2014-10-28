@@ -19,6 +19,8 @@ Monica Lewinsky's `Vanity Fair piece <http://www.vanityfair.com/society/2014/06/
 
     -- Monica Lewinsky, `Shame and Survival <http://www.vanityfair.com/society/2014/06/monica-lewinsky-humiliation-culture>`_
 
+.. TEASER_END: (Click to read the rest of the article)
+
 Look at the year, 2010, that's twelve years after the facts. A lot of time for a mom to suffer with weakened trust in her daughter that she would take on life, with its good and bad days. 
 
 Something else that crossed my path is a `post by Cathy O'Neil on her blog mathbabe <http://mathbabe.org/2014/09/30/people-hate-me-i-must-be-doing-something-right/>`_, where she discusses some ways she has built a thick skin and maintains confidence in herself, even in the face of criticism that can get very personal. 

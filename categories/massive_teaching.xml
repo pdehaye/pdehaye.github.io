@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>paulolivier.dehaye.org (massive_teaching)</title><link>http://paulolivier.dehaye.org/</link><description></description><language>en</language><lastBuildDate>Sat, 25 Oct 2014 05:01:48 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dear Daphne</title><link>http://paulolivier.dehaye.org/posts/dear-daphne.html</link><dc:creator>Paul-Olivier Dehaye</dc:creator><description>&lt;p&gt;The following is an open letter to Daphne Koller, CEO of Coursera. I sent her also a copy via email.&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>paulolivier.dehaye.org (massive_teaching)</title><link>http://paulolivier.dehaye.org/</link><description></description><language>en</language><lastBuildDate>Tue, 28 Oct 2014 12:56:44 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dear Daphne</title><link>http://paulolivier.dehaye.org/posts/dear-daphne.html</link><dc:creator>Paul-Olivier Dehaye</dc:creator><description>&lt;p&gt;The following is an open letter to Daphne Koller, CEO of Coursera. I sent her also a copy via email.&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 Dear Daphne,
 
@@ -11,6 +11,7 @@ Sincerely yours,
 Prof. Paul-Olivier Dehaye
 University of Zurich
 &lt;/pre&gt;
+&lt;!-- TEASER_END: (Click to read the letter itself) --&gt;
 &lt;div class="section" id="letter-to-coursera-students-of-massive-teaching-new-skills-required"&gt;
 &lt;h2&gt;Letter to Coursera students of "Massive Teaching: New skills required"&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -37,6 +38,7 @@ University of Zurich
 &lt;p&gt;What I read really bothered me, for a wide array of reasons. While the utopian vision of MOOCs (free-education-for-all) is compelling, these contracts reflect a very disturbing approach to that goal. In my opinion these contracts will have large societal implications, should they become the norm: disappearance of academic freedom, of the free agency of students, and complete disappearance of any form of privacy when learning. When I tried to communicate this around me, I encountered a clear lack of information on the subject. Getting past the utopian vision took time. Once there, many responded that my concerns were valid and worth discussing. In any case, this approach was ineffective: MOOC partnership decisions are often made by university administrations, based on factors other than those that drove my concerns.&lt;/p&gt;
 &lt;p&gt;I decided that the best way to proceed was to teach a MOOC on the topic. The most natural place to do so was of course Coursera, and it also seemed natural to address the course to professors, i.e. individuals who might be able to affect decisions at their own institutions or in their local communities. It would also allow me to reach out to the more "typical" Coursera students and explain to them the contracts that are constructed around their learning. Finally, I thought it would be interesting to see the capacities at Coursera to reflect on their own practices.&lt;/p&gt;
 &lt;p&gt;I understand the paradox of teaching on Coursera about concerns relating to teaching on Coursera, but made the calculation that the benefits outweigh the costs in this case.&lt;/p&gt;
+&lt;!-- TEASER_END: (Click to read the rest of the statement) --&gt;
 &lt;/div&gt;
 &lt;div class="section" id="timeline-of-preparation-and-structure-of-the-course"&gt;
 &lt;h2&gt;Timeline of preparation and structure of the course&lt;/h2&gt;
@@ -117,7 +119,7 @@ I also learned that Coursera had issued legal threats against my university and 
 &lt;br&gt;&lt;center&gt;
 &lt;iframe width="560" height="315" src="//www.youtube.com/embed/3SI7-oDqoFI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/center&gt;
-&lt;br&gt;&lt;p&gt;For my own teaching, I had adopted a model that I will call &lt;em&gt;Agile Teaching&lt;/em&gt;. In fact, I explained what I meant by this in a separate video for the course:&lt;/p&gt;
+&lt;br&gt;&lt;!-- TEASER_END: (Click to read the rest of the article) --&gt;&lt;p&gt;For my own teaching, I had adopted a model that I will call &lt;em&gt;Agile Teaching&lt;/em&gt;. In fact, I explained what I meant by this in a separate video for the course:&lt;/p&gt;
 &lt;br&gt;&lt;center&gt;
 &lt;iframe width="560" height="315" src="//www.youtube.com/embed/1xnBH0JDaU8?list=PLtqHSxfnLCmA_E4gk-tmklKoXfEoXSly9" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/center&gt;
@@ -156,7 +158,9 @@ With regard to this "Assignment" I feel rather cynical on all fronts. On the one
 &lt;p&gt;So this brings me back to, this is my ‘why?’ So this image is the winning image from the World Press Photo this year, by a photographer called John Stanmeyer, and this is why it annoys me so much. Because it’s by a photographer called John Stanmeyer. These are African immigrants standing on a beach, trying to get a phone signal before they jump in the water. Let me just get this right, “on the shore of Djibouti City at night raising their phones in an attempt to capture an inexpensive signal from neighbouring Somalia”. These are the people that aren’t in my class. They’re holding these smart devices which can all take pictures, and yet it takes a photographer from New York to bring it back and we can now talk about it.  What these people need is to be able to be trusted and to be heard, and these are the people that aren’t in the class. So this is my why, and this is my way marker, so this is definitely the best and most exciting thing that’s come out of my classes.&lt;/p&gt;
 &lt;p class="attribution"&gt;—&lt;a class="reference external" href="http://phonar.org/2014/09/leveraging-you-why-in-answer-to-mike-wesch/"&gt;Jonathan Worth&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Part of my efforts with my &lt;a class="reference external" href="http://www.coursera.org/course/massiveteaching"&gt;Coursera course&lt;/a&gt; &lt;em&gt;Massive Teaching: News skills required&lt;/em&gt; were some interesting blend of Worth's efforts in #phonar and in #connected_courses. Let's first consider the exact opposite of what I did. Relax, prepare some popcorn, and watch the following video.&lt;/p&gt;
+&lt;p&gt;Part of my efforts with my &lt;a class="reference external" href="http://www.coursera.org/course/massiveteaching"&gt;Coursera course&lt;/a&gt; &lt;em&gt;Massive Teaching: News skills required&lt;/em&gt; were some interesting blend of Worth's efforts in #phonar and in #connected_courses.&lt;/p&gt;
+&lt;!-- TEASER_END: (Click to read the rest of the article) --&gt;
+&lt;p&gt;Let's first consider the exact opposite of what I did. Relax, prepare some popcorn, and watch the following video.&lt;/p&gt;
 &lt;br&gt;&lt;center&gt;&lt;iframe width="425" height="344" src="//www.youtube.com/embed/0rmJqQotDWo?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;&lt;/center&gt;
 &lt;br&gt;&lt;p&gt;Clealy this video exploits the elite university brand together with a lot of pixie dust to try to cement this elite brand even more. The "why?" of this MIT video certainly shows.&lt;/p&gt;
 &lt;p&gt;Just as in Worth's #phonar course leading up to citizen journalism, I am hoping with parts of &lt;em&gt;Massive Teaching&lt;/em&gt; to enable some form of citizen-MOOCing, to create a small distributed network of video production, with no sacrifice on the quality of the education provided. My sidegoal was &lt;em&gt;not&lt;/em&gt; to find the cheapest way to produce video, but to find a visual style that could appeal equally to institutions (even very elite) and lonely individuals anywhere in the world &lt;a class="footnote-reference" href="http://paulolivier.dehaye.org/posts/building-trust-in-massiveteaching-through-visuals.html#id6" id="id2"&gt;[2]&lt;/a&gt;.&lt;/p&gt;

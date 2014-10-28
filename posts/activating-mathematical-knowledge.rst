@@ -13,6 +13,8 @@ In 2011, when I applied to my current position as Swiss National Science Foundat
     
     -- `Science of Collaboratories <http://soc.ics.uci.edu/>`_, SNF survey 2007
 
+.. TEASER_END: (Click to read the rest of the article)
+
 Already then, I highlighted a significant evolution in mentalities since a `reference SNF survey <http://soc.ics.uci.edu/>`_ of 2007. This trend was explained by Michael Nielsen in a TED talk at around the same time, also taking mathematics as basis for many of his examples. 
 
 .. raw:: html 

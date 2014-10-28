@@ -22,7 +22,11 @@ The European Union and Switzerland have agreements on free trade with the United
    
    -- Andrus Ansip [2]_
 
-The developments around **MOOCs have very serious consequences for privacy**. Dozens of European universities are working with US MOOC companies, spending lots, and ultimately contributing to data collection on millions of young EU citizens, all without clear purposes. There is very different cultural understanding across the Atlantic of the privacy protections of the relationships between platform and user, teacher and student and university and student. There are also very delicate (legal) constructions everywhere of what constitutes academic freedom.
+The developments around **MOOCs have very serious consequences for privacy**. 
+
+.. TEASER_END: (Click to read the rest of the article)
+
+Dozens of European universities are working with US MOOC companies, spending lots, and ultimately contributing to data collection on millions of young EU citizens, all without clear purposes. There is very different cultural understanding across the Atlantic of the privacy protections of the relationships between platform and user, teacher and student and university and student. There are also very delicate (legal) constructions everywhere of what constitutes academic freedom.
 
 All these ideas were extensively tested when I taught the class *Teaching goes massive: new skills required* on `Coursera <https://www.coursera.org/course/massiveteaching>`_. Parts of this class were supposed to cover some of those issues, and explain directly to the students most concerned the privacy issues associated to Coursera's business models. Instead, I was **censored**, **insulted**, **vilified** and **legally threatened**, and Coursera used **false, misleading or deeply intrusive** data held about the course or me to get my employer to launch a disciplinary procedure against me (as even `hinted to a newspaper <https://www.insidehighered.com/news/2014/07/15/after-massiveteaching-questions-about-mooc-quality-control>`_!). On top, of course, my students have been left in the dark. And I have lost access to my course materials. 
 

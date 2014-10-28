@@ -20,6 +20,8 @@ I decided that the best way to proceed was to teach a MOOC on the topic. The mos
 
 I understand the paradox of teaching on Coursera about concerns relating to teaching on Coursera, but made the calculation that the benefits outweigh the costs in this case.
 
+.. TEASER_END: (Click to read the rest of the statement)
+
 Timeline of preparation and structure of the course
 ===================================================
 
