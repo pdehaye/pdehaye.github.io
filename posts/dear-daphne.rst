@@ -56,3 +56,8 @@ Letter to Coursera students of "Massive Teaching: New skills required"
  Paul-Olivier Dehaye
  
  PS: Should you not be satisfied with this account, I have written a more detailed one `here <./extended-statement-on-massiveteaching-part-ii.html>`_. You are welcome to criticize if this does not correspond to your recollection, but bear in mind the timeline. A lot of what you might have read afterwards was pure fabrication. 
+
+(EDIT November 14th: Note that this letter is destined to the 8000 or so students in my course, whom I have no way to contact otherwise. They all have very different backgrounds, which will differ substantially from your own. 
+As far as I know, neither institution is aiming to work any further on an alternative joint statement to these students. There are several concrete reasons to think this is problematic and needs to be addressed. Among them are issues of sensitivity towards the students, academic freedom and free speech. 
+
+I do not expect this message to ever be sent as is. It is my expectation and hope however that a three-way solution can be found.)
