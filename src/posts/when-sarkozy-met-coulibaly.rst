@@ -35,7 +35,7 @@ Ten months later, police searched his apartment and found 240 rounds of 7.62mm r
 
 **Sourcing of the picture**
 
-Once I learned of the possible encounter, I looked for pictures of the event in press pools. The AFP had one, here is a `direct link to the search I performed <http://www.imageforum-diffusion.afp.com/ImfDiffusion/Search/Results.aspx?numPage=1&srchMd=1&ID_Fulcrum=-874277560_0&mui=1>`_. It was taken by Eric Feferberg. 
+Once I learned of the possible encounter, I looked for pictures of the event in press pools. The AFP had one, `here <http://www.imageforum-diffusion.afp.com/>`_ (search 2009-07-15 and "Sarkozy"). It was taken by Eric Feferberg. 
 
 Judging from the Liberation article, other photographers were there, for instance Giancarlo Gorassini for ABACA press. Unfortunately I do not have the (journalistic) credentials to check their online archives. 
 
