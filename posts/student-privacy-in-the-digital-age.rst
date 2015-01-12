@@ -15,7 +15,7 @@ Today, US President Obama is due to call for laws covering student privacy. To q
 
      The president will also propose the Student Data Privacy Act, which would prohibit technology firms from profiting from information collected in schools as teachers adopt tablets, online services and Internet-connected software, officials said. 
 
-This is an interesting development, very much top-down. The reality on the ground is that tech companies can do just about anything they want with student data. For instance, they can casually diss existing regulations. Quoting the `Chronicle of Higher Education <http://chronicle.com/article/Are-MOOC-Takers-Students-/150325/>`_  (December 3rd 2014):
+This is an interesting development, very much top-down. The reality on the ground is that tech companies can do just about anything they want with student data. For instance, they can casually ditch existing regulations. Quoting the `Chronicle of Higher Education <http://chronicle.com/article/Are-MOOC-Takers-Students-/150325/>`_  (December 3rd 2014):
 
      Coursera, by contrast, does not believe federal student-privacy laws apply to MOOCs, according to Vivek Goel, the company’s chief academic strategist. But the company does follow the "principles" of Ferpa when handling the data of its users, according to Mr. Goel.
 
