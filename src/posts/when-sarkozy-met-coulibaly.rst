@@ -39,4 +39,4 @@ Once I learned of the possible encounter, I looked for pictures of the event in 
 
 Judging from the Liberation article, other photographers were there, for instance Giancarlo Gorassini for ABACA press. Unfortunately I do not have the (journalistic) credentials to check their online archives. 
 
-I sourced this picture a few days ago already, and posted it on Twitter. Since, it has started circulating, mostly on Russian websites tied to conspiracy theories, and on the `Twitter account of Marco Bresolin <https://twitter.com/marcobreso/status/553580502444421120>`_. It was also shared by an Italian journalist (who picked it up 40 minutes after I did, presumably from my Twitter account). 
+I sourced this picture a few days ago already, and posted it on Twitter. Since, it has started circulating, mostly on Russian websites tied to conspiracy theories, and on the `Twitter account of Marco Bresolin <https://twitter.com/marcobreso/status/553580502444421120>`_. It was also shared by an Italian journalist (who picked it up 40 minutes after I did, presumably from my Twitter account), and shared onwards to at least one French far-right account.
