@@ -25,7 +25,7 @@ This handshake took place on July 15 2009, at an official event at the Elysee pa
 
 .. TEASER_END: (Click to read about the sourcing of this picture and its relevance)
 
-I am not 100% sure it is the same person. According to an article by `Le Parisien <www.leparisien.fr/grigny-91350/amedi-27-ans-rencontre-sarkozy-cet-apres-midi-15-07-2009-580211.php>`_, Coulibaly was due to go on that day to the Elysee Palace. Other journalists have assessed the truth of that statement, for instance `Ivan Valerio for Le Figaro  <http://www.lefigaro.fr/politique/le-scan/citations/2015/01/09/25002-20150109ARTFIG00228-en-2009-amedy-coulibaly-le-tireur-de-montrouge-etait-recu-a-l-elysee.php>`_ and `Cyril Morin for Le Lab Europe 1 <lelab.europe1.fr/Quand-Amedy-Coulibaly-suspect-presume-de-la-tuerie-de-Montrouge-etait-recu-a-l-Elysee-20124>`_. 
+I am not 100% sure it is the same person. According to an article by `Le Parisien <http://www.leparisien.fr/grigny-91350/amedi-27-ans-rencontre-sarkozy-cet-apres-midi-15-07-2009-580211.php>`_, Coulibaly was due to go on that day to the Elysee Palace. Other journalists have assessed the truth of that statement, for instance `Ivan Valerio for Le Figaro  <http://www.lefigaro.fr/politique/le-scan/citations/2015/01/09/25002-20150109ARTFIG00228-en-2009-amedy-coulibaly-le-tireur-de-montrouge-etait-recu-a-l-elysee.php>`_ and `Cyril Morin for Le Lab Europe 1 <lelab.europe1.fr/Quand-Amedy-Coulibaly-suspect-presume-de-la-tuerie-de-Montrouge-etait-recu-a-l-Elysee-20124>`_. 
 
 For `BFMTV <http://www.bfmtv.com/societe/quand-le-parisien-s-interroge-sur-une-rencontre-entre-coulibaly-et-sarkozy-856642.html>`_, collaborators of Sarkozy are downplaying the significance of this: 
 
@@ -39,4 +39,4 @@ Once I learned of the possible encounter, I looked for pictures of the event in 
 
 Judging from the Liberation article, other photographers were there, for instance Giancarlo Gorassini for ABACA press. Unfortunately I do not have the (journalistic) credentials to check their online archives. 
 
-I sourced this picture a few days ago already, and posted it on Twitter. Since, it has started circulating, mostly on Russian websites tied to conspiracy theories, and on the `Twitter account of Marco Bresolin <https://twitter.com/marcobreso/status/553580502444421120>`_. It was also shared by an Italian journalist (who picked it up 40 minutes after I did, presumably from my Twitter account), and shared onwards to at least one French far-right account.
+I sourced this picture a few days ago already, and posted it on Twitter. Since, it has started circulating, mostly on Russian websites tied to conspiracy theories, and on the `Twitter account of Marco Bresolin <http://twitter.com/marcobreso/status/553580502444421120>`_. It was also shared by an Italian journalist (who picked it up 40 minutes after I did, presumably from my Twitter account), and shared onwards to at least one French far-right account.
