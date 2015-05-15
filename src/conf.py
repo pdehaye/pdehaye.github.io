@@ -98,8 +98,8 @@ NAVIGATION_LINKS = {
         ("/rss.xml", "RSS feed"),
 	("/stories/about.html", "About"),
 	("http://www.twitter.com/podehaye","@podehaye"),
-	("/stories/comment-policy.html", "Comment policy"),
-	("/stories/privacy-policy.html", "Privacy policy"),
+#	("/stories/comment-policy.html", "Comment policy"),
+#	("/stories/privacy-policy.html", "Privacy policy"),
     ),
 }
 
@@ -471,12 +471,13 @@ CONTENT_FOOTER_FORMATS = {
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "disqus"
+#COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = ""
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "pdehaye-blog"
+#COMMENT_SYSTEM_ID = "pdehaye-blog"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
@@ -592,6 +593,9 @@ COMMENT_SYSTEM_ID = "pdehaye-blog"
 # <!-- End of social buttons -->
 # """
 
+SOCIAL_BUTTONS_CODE = ""
+
+
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
 # SHOW_SOURCELINK = True
@@ -644,14 +648,15 @@ RSS_TEASERS = False
 # """ % SITE_URL
 #
 # If you prefer a google search form, here's an example that should just work:
-SEARCH_FORM = """
-<!-- Custom search with google-->
-<form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
-<input type="hidden" name="q" value="site:%s" />
-<input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
-</form>
-<!-- End of custom search -->
-""" % SITE_URL
+#SEARCH_FORM = """
+#<!-- Custom search with google-->
+#<form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
+#<input type="hidden" name="q" value="site:%s" />
+#<input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
+#</form>
+#<!-- End of custom search -->
+#""" % SITE_URL
+SEARCH_FORM = ""
 
 # Use content distribution networks for jquery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
