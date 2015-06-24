@@ -20,6 +20,8 @@ By simply googling around (mostly for *Coursera Framework Agreement*), I was abl
 - `University of North Carolina <../coursera-UNC.pdf>`_
 - `University of Toronto <../coursera-UToronto.pdf>`_
 
+- bonus, found later:  `University of Maryland <../coursera-maryland.pdf>`_
+
 Not all of those are signed, some are just preliminary and might not match the final version.
 Some of those were originally obtained through Freedom of Information requests, while others were obviously misplaced. Some seem to have been removed from the web since, so I put them back here. **The more interesting aspects here are the subtle variations between these contracts**.  
 
