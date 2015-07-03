@@ -51,4 +51,4 @@ This is fascinating to me, and I can see many parallels with MOOCs and the insti
 
 Maybe we need a cooperative of MOOC educators?
 
-(Ritchin also talks about *horseless carriages*, and the technological determinism that prevents us to see unintended consequences of inventions such as digital photography. And Magnum has built its `own social machine <../categories/social_machine.html>`_ to crowdsource the metadata tagging of its archive, which has led to the find of a `hidden treasure <http://www.behind-the-enemy-lines.com/2011/06/crowdsourcing-and-discovery-of-hidden.html>`_.)
+(Notes to self: Ritchin also talks about *horseless carriages*, and the technological determinism that prevents us to see unintended consequences of inventions such as digital photography. And Magnum has built its `own social machine <../categories/social_machine.html>`_ to crowdsource the metadata tagging of its archive, which has led to the find of a `hidden treasure <http://www.behind-the-enemy-lines.com/2011/06/crowdsourcing-and-discovery-of-hidden.html>`_.)

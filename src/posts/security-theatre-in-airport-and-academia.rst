@@ -136,7 +136,7 @@ Another is that he has resorted to using innuendos. I can use my own too.
 
 Don't worry, the nickname is based on `actual data <http://youtu.be/PCV5xBPoxnE?t=4m47s>`_. 
 
-.. [1] Deserves a shoutout to Kate Bowles and #ccourses for reminding me of the importance of this question. 
+.. [1] 
 
 .. [2] I claim this general technology is useless based on still unpublished research `announced last month <http://www.wired.com/2014/08/study-shows-how-easily-weapons-can-be-smuggled-past-tsas-x-ray-body-scanners>`_. I was unprepared to enter that debate there with the security officer, not knowing exactly which model Schiphol was using. I suspect the officer was not ready either. The point is that we shouldn't have to, as this particular European law was drafted anticipating rapid evolution in this security field, both regarding threat detection and evasion. 
 
