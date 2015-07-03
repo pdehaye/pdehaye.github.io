@@ -50,11 +50,11 @@ When I approached the security scanner, I looked around. Nowhere was it written 
 
 When I had to finally talk to a Schiphol security officer and refuse the scanner, our interaction validated all the care I put in preparing this (and my general approach to a few similar challenge-the-authority projects I am involved in): his reaction was simply to ask me "Why?", why I was refusing. If there is one thing I learned this summer, it is to ask myself "Why?" and have a good answer to this question [1]_. In this case, I could definitely answer it right away: "Because this is my right". **By keeping a pretense of being citizen beta, I got the officer to volunteer the reason why he himself asked me "Why?"**: he volunteered "because sometimes people don't have the right information and think those are X-rays machines going through their skin" (regardless of the validity of the assertion, this is irrelevant to the fact that European law still allows me to opt out). I repeated that I was still refusing, and he said that was indeed my right, let me get around the scanner and started patting me down. 
 
-To emphasize: **this particular officer knew from the start that I it was my right to opt out**. While being perfectly courteous, he was making assumptions of my own ignorance, expecting to enlighten me with information about his very expensive, super advanced, and ultimately useless piece of technology [2]_.  This **explanation was supposed to somehow impress me, and lead me to willingly give away my own rights as a EU citizen (on EU soil)**. Given that I had gone to Goteborg to partly talk about technological determinism, with quotes of Zuckerberg on the evolving nature of privacy (including the "dumb fucks" quote, page 11 of `my slides <../goteborg-final.pdf>`_), this was adding another layer of irony... There possibly was arrogance in my assumptions about my role as an academic, but certainly there were in the assumptions the officer was making: he didn't know about the Oxford sheep (presumably), all the necessary tabs opened and ready on my laptop, the writing on my hand, or the fact that I have quite a bit of experience with EU law (in the context of a separate private matter, I have previously encouraged the European Commission to initiate an `infringement procedure <http://ec.europa.eu/eu_law/your_rights/your_rights_en.htm>`_ against my home country, Belgium. This is a *highly* recommended and free legal avenue, available to any European citizen and maybe even resident).
+To emphasize: **this particular officer knew from the start that I it was my right to opt out**. While being perfectly courteous, he was making assumptions of my own ignorance, expecting to enlighten me with information about his very expensive, super advanced, and ultimately useless piece of technology [2]_.  This **explanation was supposed to somehow impress me, and lead me to willingly give away my own rights as a EU citizen (on EU soil)**. Given that I had gone to Goteborg to partly talk about technological determinism, with quotes of Zuckerberg on the evolving nature of privacy (including the "dumb fucks" quote, page 11 of `my slides <../goteborg-final.pdf>`_), this was adding another layer of irony... There possibly was arrogance in my assumptions about my role as an academic, but certainly there were in the assumptions the officer was making: he didn't know about the Oxford sheep (presumably), all the necessary tabs opened and ready on my laptop, the writing on my hand, or the fact that I have quite a bit of experience with EU law (in the context of a separate private matter).
 
 Once he had patted me down, and I had effectively gone through security, it was time to lay some of it out. Of course, I was quickly bounced around to the shift supervisor (who looked quite a bit senior). **René was genuinely concerned and wanted to do the right thing: he took  pictures of my screen to get the relevant EU law lines and the original tweets. I told him to look for the #HelloSchiphol hashtag on Twitter. He thanked me.**
 
-But again he dismissed Balkan as just a tweeter among others, and I had to insist that he actually had many followers who care about privacy, that he is a big shot taking on Google, etc. I shouldn't have had to do that, and neither should it have mattered that I am a university professor, yet he did remark on the fact [3]_. One can argue about my method and its transparency, but **by playing dumb I actually got further** than just flashing legal printouts right away, since I now have **one more data point on how Schiphol security officers respond to seemingly unprepared citizens concerned with airport security**. 
+But again he dismissed Balkan as just a tweeter among others, and I had to insist that he actually had many followers who care about privacy, etc. I shouldn't have had to do that, and neither should it have mattered that I am a university professor, yet he did remark on the fact [3]_. One can argue about my method and its transparency, but **by playing dumb I actually got further** than just flashing legal printouts right away, since I now have **one more data point on how Schiphol security officers respond to seemingly unprepared citizens concerned with airport security**. 
 
 **Overall, this experience with Schiphol security was very positive, and I don't have a grudge against them anymore (provided they add relevant signage).**
 
@@ -110,41 +110,16 @@ Sure enough, 9 minutes into the first video, *social engineering* is highlighted
 
 This lack of public transparency is itself is a concern, in the context of the `Asilomar convention <http://asilomar-highered.info>`_. **Without more transparency from Coursera on their data policies, I have genuine concern that Coursera itself is just using security theatre for commercial advantage** [8]_. 
 
-In case it is not clear at this stage, I still have a score to settle with Coursera, but I try to be a patient man. 
-
-    If someone’s not going to follow the practices, that’s something that society faces in general, and that’s why we have police and courts [..] In the academic world, we don’t need police and courts, but we have academic discipline, we have academic institutional standards, we have research standards. If people don’t comply with those, they do need to be deal[t] with. In our set of relationships, that’s between the university and the instructor. 
-    
-    -- `Vivek Goel  <https://www.insidehighered.com/news/2014/07/15/after-massiveteaching-questions-about-mooc-quality-control>`_, Chief Academic Strategist, Coursera and apparently also "`still a professor at the Dalla Lana School of Public Health and the Institute for Health Policy, Management & Evaluation <http://blog.coursera.org/post/77181132056/welcome-vivek-goel-to-courseras-leadership-team>`_"
-
-Goel is textually correct of course. But he is also intentionally misleading (by offering this generic quote in an article about a course that I ran). And he is also unintentionally short-sighted, for very many reasons. One is that he indeed reminds me of looking up the local rules.
-
-    The University of Zurich (UZH) is an institution with a strong commitment to the free and open pursuit of scholarship.
-
-    Scholarship is the acquisition, the advancement and the **dissemination of knowledge in a methodological and critical manner**.
-
-    To flourish, scholarship must be **free from external influences, constraints and ideological pressures**. The University of Zurich is committed to **unrestricted freedom in research and teaching**.
-
-    Academic freedom calls for a high degree of responsibility, including **reflection on the ethical implications of research activities for humans, animals and the environment**.
-    
-    -- `University of Zurich's mission statement <http://www.uzh.ch/about/basics/mission_en.html>`_
-
-Another is that he has resorted to using innuendos. I can use my own too. 
-
-    We see all the platforms now really starting to talk about the social aspects [..] of learning, which come from the other theories. 
-
-    -- The *Zuckerberg-wannabe of the higher education world*, aka the *Chief-Academic-Strategist-formerly-known-as-an-academic* aka Vivek Goel
-
-Don't worry, the nickname is based on `actual data <http://youtu.be/PCV5xBPoxnE?t=4m47s>`_. 
 
 .. [1] 
 
 .. [2] I claim this general technology is useless based on still unpublished research `announced last month <http://www.wired.com/2014/08/study-shows-how-easily-weapons-can-be-smuggled-past-tsas-x-ray-body-scanners>`_. I was unprepared to enter that debate there with the security officer, not knowing exactly which model Schiphol was using. I suspect the officer was not ready either. The point is that we shouldn't have to, as this particular European law was drafted anticipating rapid evolution in this security field, both regarding threat detection and evasion. 
 
-.. [3] He only learned that at the very end, when I wrote #HelloSchiphol on my business card. There is, so far in my life, only one (repeated) instance where I have flashed the fact that I am a professor: apartment hunting in Switzerland, for which competition is so fierce that local society admits pretty much *any* move is fair. The fact that many academics pride themselves not to use business cards or Twitter show a profound lack of understanding of their own place in the physical and digital world: conversation with any other citizen is important and that might require using their medium.
+.. [3] He only learned that at the very end, when I wrote #HelloSchiphol on my business card. There is, so far in my life, only one (repeated) instance where I have flashed the fact that I am a professor: apartment hunting in Switzerland, for which competition is so fierce that local society admits pretty much *any* move is fair. 
 
 .. [4] To use the language of `Bruce Schneier <https://www.schneier.com>`_. 
 
-.. [5] I will admit it, I am jealous and do hope that Mayer has that written on his business card. As I explained in  `this post <http://paulolivier.dehaye.org/posts/the-academic-social-machine-part-I.html>`_ I currently fulfill four out of five crowdsourced stereotypes about academics, and am unsure of others' perception of me on the fifth (but I know where I stand). 
+.. [5] 
 
 .. [6] I also did at the time, `in the comments to the Coursera blog post  <http://blog.coursera.org/post/96686805237/response-to-reported-vulnerability-in-instructor-access>`_, for the fact that Coursera was not properly acknowledging the value of Mayer's work for them in testing their platform.
 
