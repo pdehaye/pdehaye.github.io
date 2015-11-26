@@ -1,0 +1,26 @@
+.. title: OpenEdXUniversities conference in Washington DC, at GWU
+.. slug: openedxuniversities-conference-in-washington-dc-at-gwu
+.. date: 2015-11-26 16:20:11 UTC+01:00
+.. tags: 
+.. link: 
+.. description: 
+.. type: text
+.. author: Paul-Olivier Dehaye
+
+On November 11 2015, I gave a talk at the OpenEdX Universities conference at George Washington University in Washington DC. The tile was "Educators as pathetic dots -- Why we need collaborative models in education".
+
+The talk was filmed, here is a stream of the slides (separate stream of me talking to follow).
+
+
+.. raw:: html
+
+   <br>
+   <center>
+
+.. youtube:: naxaNu9FvL0 
+
+.. raw:: html
+
+   </center>
+   <br>
+
