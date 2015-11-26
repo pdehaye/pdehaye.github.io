@@ -9,7 +9,7 @@
 
 On November 11 2015, I gave a talk at the OpenEdX Universities conference at George Washington University in Washington DC. The tile was "Educators as pathetic dots -- Why we need collaborative models in education".
 
-The talk was filmed, here is a stream of the slides (separate stream of me talking to follow).
+The talk was filmed. You can access it as a dual video stream `here <http://go.gwu.edu/openedx>`_ (Session 4), or below as an embedded YouTube of just the slides.
 
 
 .. raw:: html
