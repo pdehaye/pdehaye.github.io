@@ -24,3 +24,5 @@ The talk was filmed. You can access it as a dual video stream `here <http://go.g
    </center>
    <br>
 
+The slides are `downloadable here <https://docs.google.com/presentation/d/1JRtAAjAoqcgyi4n1f5qVtDu0-Mw-cNGcM4xsALilzq8/edit?usp=sharing>`_. 
+
