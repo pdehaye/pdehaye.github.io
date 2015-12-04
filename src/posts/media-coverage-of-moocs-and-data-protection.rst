@@ -10,7 +10,8 @@
 There was this week some coverage in the news of privacy issues in MOOCs, particularly around the startup Coursera. 
 
 - In the `German newspaper Suddeutsche Zeitung <http://www.sueddeutsche.de/kultur/online-universitaeten-der-glaeserne-student-1.2762465>`_
-- In the `German newspaper Tagesschau <https://www.tagesschau.de/inland/moocs-113.html>`_
+- In the `German website Tagesschau <https://www.tagesschau.de/inland/moocs-113.html>`_
+- In the `German website Bayerischer Rundfunk <http://www.br.de/themen/ratgeber/inhalt/computer/moocs-datenschutz-usa-100.html>`_ (a copy of previous one)
 - On the `German TV station Das Erste <http://www.daserste.de/information/politik-weltgeschehen/mittagsmagazin/sendung/moocs-uni-professor-kurs-vorlesung-online-datenschutz-usa-safe-harbor-100.htmlc>`_
 - On `Swiss radio SR4 <http://www.srf.ch/sendungen/srf-4-aktuell/online-studium-richtige-psychoprofile-werden-erstellt>`_
 - An article in Zeit Online that I lost track of.
