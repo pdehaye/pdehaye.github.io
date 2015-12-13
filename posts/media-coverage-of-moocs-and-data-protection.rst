@@ -15,7 +15,7 @@ There was this week some coverage in the news of privacy issues in MOOCs, partic
 - On the `German TV station Das Erste <http://www.daserste.de/information/politik-weltgeschehen/mittagsmagazin/sendung/moocs-uni-professor-kurs-vorlesung-online-datenschutz-usa-safe-harbor-100.htmlc>`_
 - On `Swiss radio SR4 <http://www.srf.ch/sendungen/srf-4-aktuell/online-studium-richtige-psychoprofile-werden-erstellt>`_
 - An article in Zeit Online that I lost track of.
-- On `Swiss radio SR2 <http://www.srf.ch/news/international/rechtschaos-um-studenten-daten>`_, `transcription <http://www.amara.org/en/videos/Z097TWEriezl/info/datenschutzproblem-bei-online-kursen/>`_.
+- On `Swiss radio SR2 <http://www.srf.ch/news/international/rechtschaos-um-studenten-daten>`_
 
 The journalists asked a data protection official of a Lander in Germany and of the Canton of Zurich, who confirmed that Coursera could do anything they want with the data collected.
 
